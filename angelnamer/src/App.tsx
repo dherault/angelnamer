@@ -1,7 +1,9 @@
 function App() {
 
   return (
-    'Angel namer'
+    <div>
+      Angel namer
+    </div>
   )
 }
 
