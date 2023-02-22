@@ -18,3 +18,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_ANGELNAMER_2 }}'
           channelId: live
           projectId: angelnamer-2
+          entryPoint: angelnamer
