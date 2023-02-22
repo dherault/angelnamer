@@ -1,2 +1,2 @@
 # angelnamer
-A simnple way to give a name
+A simple way to give a name
